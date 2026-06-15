@@ -2,6 +2,7 @@ import math
 import re
 import secrets
 
+
 PREVIOUS_PASSWORDS = ["Password123!", "Admin2026*", "LetMeIn$$$"]
 COMMON_PASSWORDS = ["password", "12345678", "qwerty", "password123", "welcome"]
 
